@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Home Workout Assistant</string>
+    <string name="desc">Halaman Login</string>
+    <string name="judul_app">Home Workout Assistant</string>
+    <string name="tagline">Olahraga di rumah, tanpa alat khusus</string>
+    <string name="tentang_title">Tentang Aplikasi</string>
+    <string name="tentang_isi">Home Workout Assistant adalah aplikasi panduan olahraga yang bisa dilakukan di rumah tanpa membutuhkan alat khusus. Cukup berbekal ruang kecil dan niat, kamu bisa tetap bugar kapan saja.</string>
+    <string name="gerakan_title">Contoh Gerakan</string>
+    <string name="gerakan_isi">• Push Up – melatih dada, bahu, dan lengan\n• Squat – melatih paha dan bokong\n• Plank – melatih otot inti (perut dan punggung)\n• Sit Up – melatih otot perut\n• Jumping Jack – pemanasan dan kardio ringan</string>
+    <string name="rencana_title">Rencana Pengembangan</string>
+    <string name="rencana_isi">Ke depannya aplikasi ini akan dilengkapi fitur penghitung gerakan otomatis (misalnya push up) menggunakan kamera.</string>
+</resources>

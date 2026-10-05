@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gambar ilustrasi orang push up. Boleh diganti dengan foto sendiri (taruh di res/drawable) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="200dp"
+    android:viewportWidth="360"
+    android:viewportHeight="200">
+
+    <!-- latar -->
+    <path
+        android:fillColor="#08D9D6"
+        android:pathData="M0,0h360v200h-360z" />
+    <!-- lantai -->
+    <path
+        android:fillColor="#252A34"
+        android:pathData="M0,160h360v40h-360z" />
+    <!-- kepala -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M92,98m-16,0a16,16 0 1,0 32,0a16,16 0 1,0 -32,0" />
+    <!-- badan -->
+    <path
+        android:pathData="M112,114L296,152"
+        android:strokeWidth="20"
+        android:strokeColor="#FF2E63"
+        android:strokeLineCap="round" />
+    <!-- tangan -->
+    <path
+        android:pathData="M118,120L120,156"
+        android:strokeWidth="12"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <!-- kaki -->
+    <path
+        android:pathData="M296,152L306,156"
+        android:strokeWidth="12"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <!-- tanda panah naik-turun -->
+    <path
+        android:pathData="M200,50L200,90M188,62L200,50L212,62"
+        android:strokeWidth="6"
+        android:strokeColor="#252A34"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
